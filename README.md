@@ -34,8 +34,8 @@ web-based machine learning algorithm using NodeJS
 <h3 align="left">First iteration</h2>
 
 * [x] Cloned repo in each group individual member.
-* [x] Create [Tag](https://github.com/amhalrasheed/Workshop2/releases/tag/V0.1) for the first codebase.
-* [x] Create your first [release](https://github.com/amhalrasheed/Workshop2/releases).
+* [x] Create [Tag](https://github.com/Turkialq/Workshop2/tags) for the first codebase.
+* [x] Create your first [release](https://github.com/Turkialq/Workshop2/releases/tag/V0.1).
 
 
 ---
