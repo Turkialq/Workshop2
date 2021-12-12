@@ -1,8 +1,13 @@
 sudo: false
-language : node_js
+
+language: node_js
+
 node_js:
-  -node
+  - 10.16.0
+  - node
 
 script:
-  -nmp run lint
-  -nmp run test:coveralls
+  - npm test
+
+nofications:
+  email: false
